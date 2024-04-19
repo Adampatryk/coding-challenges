@@ -1,0 +1,5 @@
+day     started     finished    elapsed
+day-01  2:07pm      2:58pm      0h51m
+day-02  12:44am     1:45am      1h01m
+day-03  5:08am      6:02am      0h52m
+day-04  5:15am      5:34am      0h19m
